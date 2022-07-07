@@ -1,6 +1,8 @@
 #include "main.h"
 
 /**
+ * print_numbers - this function print numbers
+ *
  * main - Entry point
  *
  * Return: Always 0 (Success)
