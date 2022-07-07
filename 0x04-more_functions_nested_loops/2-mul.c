@@ -5,12 +5,12 @@
  *
  * Return: Always 0 (Success)
 */
-int _isupper(int c)
+int mul(int a, int b)
 {
 
-	if (c >= 65 && c <= 90)
-	{
-		return (1);
-	}
-	return (0);
+	int mul;
+
+	mul = a * b;
+
+	return (mul);
 }
