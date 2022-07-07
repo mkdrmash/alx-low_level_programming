@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
+ * _isupper - checks for uppercase char
+ * @c: c is variable
  * Return: Always 0 (Success)
 */
 int _isupper(int c)
