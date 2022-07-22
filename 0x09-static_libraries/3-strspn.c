@@ -1,0 +1,1 @@
+void _strspn(void) {}
