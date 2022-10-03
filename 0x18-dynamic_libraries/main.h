@@ -21,5 +21,10 @@ char *_strchr(char *s, char c);
 unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
+int __bss_start(void);
+int _edata(void);
+int _end(void);
+int _fini(void);
+int _init(void);
 
 #endif
